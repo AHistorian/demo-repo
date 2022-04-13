@@ -1,7 +1,13 @@
-# demo
+# Demo
 
 something!
 
 this shit is killing me
 
+## Subheader 
+
 Watch tutorial on YT
+
+## Local Development
+
+1. Open index.html in your browser 
